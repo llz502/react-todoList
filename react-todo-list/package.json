@@ -2,7 +2,7 @@
   "name": "react-todo-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://llz502.github.io/react-todoList/react-todo-list/build/",
+  "homepage": "https://llz502.github.io/",
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
